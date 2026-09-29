@@ -1,0 +1,2 @@
+# Explicitly track the pre-compiled binary firmware files
+!*.bin
